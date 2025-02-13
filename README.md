@@ -1,7 +1,8 @@
-## Hi there 👋, welcome to my GitHub!
+# Hi there 👋
+## Welcome to my GitHub!
 
 About Me: 
-- 📍 I'm an undergraduate at the **New Jersey Institute of Technology** studying Computer Science
+- 📍 I'm an undergraduate student at the **New Jersey Institute of Technology** studying Computer Science
 - 👩‍💻 I have experience in **full stack development** with companies such as CodePath and **application development** with companies such as Workday and Netflix.
 
 Experience:
