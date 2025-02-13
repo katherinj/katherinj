@@ -22,8 +22,8 @@ Currently:
 
 ---
 ### Socials
-linkedin
-[<img align="left" alt="Alexa | Discord" width="25px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png"/>][discord]
+[<img align="left" alt="Katherin's LinkedIn" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>][linkedin]
+[<img align="left" alt="Katherin's Discord" width="25px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png"/>][discord]
 
 [discord]: https://discord.gg/qpAxYaF
 [linkedin]: https://www.linkedin.com/in/katherin-jimenez-2a7876220/
