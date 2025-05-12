@@ -13,5 +13,10 @@
 
 ---
 ### 🔗 Connect with Me
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />](https://www.linkedin.com/in/katherin-jimenez/)
-&nbsp; [✨ Portfolio](https://www.katherin.io)
+<a href="https://www.linkedin.com/in/katherin-jimenez/" target="_blank" rel="noreferrer">
+  <img align="left" alt="LinkedIn" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
+</a>
+
+<a href="https://www.katherin.io" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  ✨ Portfolio
+</a>
