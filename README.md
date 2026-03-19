@@ -2,7 +2,7 @@
 
 # Hi, I'm Katherin! ✨
 
-**Software Engineer · Full Stack Developer · First-Gen Latina in Tech**
+**Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherin-jimenez/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=sparkles&logoColor=white)](https://www.katherin.io)
