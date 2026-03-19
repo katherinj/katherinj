@@ -13,7 +13,7 @@
 
 ## 🌸 About Me
 
-I'm a **Computer Science graduate from NJIT (Class of 2025)** and a proud first-generation Latina in tech — passionate about building software that's thoughtful, inclusive, and impactful.
+I'm a **Computer Science graduate from NJIT** and passionate about building software that's thoughtful, inclusive, and impactful.
 
 I currently work as a **Software Engineer at Capgemini Financial Services**, where I develop enterprise-grade applications. I love turning complex problems into clean, user-friendly experiences.
 
@@ -45,9 +45,9 @@ I currently work as a **Software Engineer at Capgemini Financial Services**, whe
 
 ## 🌟 A Little More About Me
 
-- 🎓 First-generation college graduate & Latina in tech
 - 📱 Currently building iOS apps in Swift/SwiftUI on the side
 - 💡 Always exploring the intersection of great UX and clean engineering
+- 🎓 First-generation college graduate & Latina in tech
 
 ---
 
