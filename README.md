@@ -1,17 +1,62 @@
-# Hi there 👋
-## Welcome to my GitHub!
+<div align="center">
 
-### About Me
-- 🎓 I am a 2025 **_Computer Science_** graduate from the New Jersey Institute of Technology
-- 👩‍💻 I have experience in **full stack development** with companies such as CodePath and **application development** with companies such as Workday and Netflix
-- 🌟 I'm a proud **first-generation Latina in tech** passionate about building inclusive and impactful technology
+# Hi, I'm Katherin! ✨
 
-### Experience
-- 💼 **Software Application Development Intern** @ Workday  
-- 🌐 **Full Stack Web Developer** @ CodePath x Workday
-- 🎬 **Netflix Pathways Bootcamp Graduate** @ Netflix  
+**Software Engineer · Full Stack Developer · First-Gen Latina in Tech**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherin-jimenez/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=sparkles&logoColor=white)](https://www.katherin.io)
+
+</div>
 
 ---
-### 🔗 Connect with Me
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />](https://www.linkedin.com/in/katherin-jimenez/)
-&nbsp; [✨ Portfolio](https://www.katherin.io)
+
+## 🌸 About Me
+
+I'm a **Computer Science graduate from NJIT (Class of 2025)** and a proud first-generation Latina in tech — passionate about building software that's thoughtful, inclusive, and impactful.
+
+I currently work as a **Software Engineer at Capgemini Financial Services**, where I develop enterprise-grade applications. I love turning complex problems into clean, user-friendly experiences.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Highlight |
+|------|---------|-----------|
+| 🏢 Software Engineer | **Capgemini** | Enterprise application development |
+| 💻 Software Application Development Intern | **Workday** | Application development |
+| 🌐 Full Stack Web Developer | **CodePath × Workday** | Full stack engineering |
+| 🎬 Pathways Bootcamp Graduate | **Netflix** | Intensive software training |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `Swift` `Python` `Java`
+
+**Frameworks & Libraries**
+`Angular` `React` `SwiftUI` `Node.js`
+
+**Tools & Platforms**
+`Git` `GitHub` `Figma` `VS Code` `Xcode`
+
+---
+
+## 🌟 A Little More About Me
+
+- 🎓 First-generation college graduate & Latina in tech
+- 📱 Currently building iOS apps in Swift/SwiftUI on the side
+- 💡 Always exploring the intersection of great UX and clean engineering
+
+---
+
+<div align="center">
+
+**Open to collaboration and connecting with fellow builders.**
+Let's create something great together! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherin-jimenez/)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Work-FF6B9D?style=for-the-badge&logoColor=white)](https://www.katherin.io)
+
+</div>
